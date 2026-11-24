@@ -4,6 +4,8 @@ An interactive, single-file browser application demonstrating how causal languag
 
 Powered by a real language model running completely in the browser via [Transformers.js](https://huggingface.co/docs/transformers.js) — no backend, API keys, or frameworks required.
 
+**Live Demo**: [https://spsr-dot.github.io/perplexity-explorer/](https://spsr-dot.github.io/perplexity-explorer/)
+
 ---
 
 ## Features
